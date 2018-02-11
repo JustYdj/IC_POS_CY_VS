@@ -1,0 +1,5 @@
+﻿  usart.c
+  Linking ../VisualGDB/Debug/IC_POS_CY_VS...
+  ------------------- Memory utilization report -------------------
+  Used FLASH: 29KB out of 256KB (11%) [+3452]
+  Used RAM: 7344 bytes out of 64KB (11%)
